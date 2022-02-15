@@ -1,0 +1,8 @@
+[tool]
+[tool.poetry]
+authors = ["Sprint Addons Team"]
+description = ""
+name = "Sprint v1"
+version = "1.0"
+[tool.poetry.dependencies]
+pyttsx3 = "^2.90"
