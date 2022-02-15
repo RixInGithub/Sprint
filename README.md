@@ -1,5 +1,4 @@
 # Sprint
-![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=RixInGithub_Sprint&metric=alert_status)
 
 We are Sprint Addons... Oh, yeah, talking to a **company** is **super-duper weird**! So, we are Sprint Addons **Team**. But, this website, in fact, is a home for a blue cheetah named Sprint!
 
